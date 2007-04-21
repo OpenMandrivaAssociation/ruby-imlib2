@@ -1,13 +1,13 @@
 %define rbname imlib2
 %define version 0.5.2
-%define release %mkrel 2
+%define release %mkrel 3
 
 Summary: Imlib2 bindings for Ruby
 Name: ruby-%{rbname}
 
 Version: %{version}
 Release: %{release}
-Group: Development/Other
+Group: Development/Ruby
 License: BSD-like
 URL: http://ruby-imlib2.rubyforge.org/
 Source0: %{rbname}-ruby-%{version}.tar.bz2
