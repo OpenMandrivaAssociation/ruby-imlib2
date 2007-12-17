@@ -11,7 +11,6 @@ Group: Development/Ruby
 License: BSD-like
 URL: http://ruby-imlib2.rubyforge.org/
 Source0: %{rbname}-ruby-%{version}.tar.bz2
-BuildRoot: %{_tmppath}/%{name}-%{version}-root
 BuildRequires: ruby-devel 
 BuildRequires: imlib2-devel
 
