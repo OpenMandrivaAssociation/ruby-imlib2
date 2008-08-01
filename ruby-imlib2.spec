@@ -1,6 +1,6 @@
 %define rbname imlib2
 %define version 0.5.2
-%define release %mkrel 5
+%define release %mkrel 6
 
 Summary: Imlib2 bindings for Ruby
 Name: ruby-%{rbname}
